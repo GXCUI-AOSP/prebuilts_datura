@@ -1,0 +1,13 @@
+//
+// SPDX-FileCopyrightText: 2022 The Calyx Institute
+// SPDX-License-Identifier: Apache-2.0
+//
+
+android_app_import {
+    name: "Datura",
+    apk: "datura-release.apk",
+    certificate: "platform",
+    platform_apis: true,
+    system_ext_specific: true,
+    overrides: ["Firewall"],
+}
