@@ -5,9 +5,9 @@
 
 android_app_import {
     name: "Datura",
-    apk: "datura-release.apk",
+    apk: "app-release.apk",
     certificate: "platform",
-    platform_apis: true,
     system_ext_specific: true,
     overrides: ["Firewall"],
+    optional_uses_libs: ["androidx.window.extensions", "androidx.window.sidecar"],
 }
