@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2b467e38_83dc9fb0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2024-05-29T16:40:10Z",
+      "side": 1,
+      "message": "The Doze change appears to work (in that the app battery usage settings are grayed out). The notifications change I am not sure yet, because they were already allowed for me.",
+      "revId": "8fb594089d4354d962c8c3a314f03f08584ed84f",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
