@@ -34,6 +34,24 @@
       "parentUuid": "3296fb48_bb7d990a",
       "revId": "bd20f8328a0a846a0424666e65e13e39f887f17a",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "428833ff_f35e6705",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000065
+      },
+      "writtenOn": "2024-06-12T12:03:01Z",
+      "side": 1,
+      "message": "It shouldn\u0027t be required anymore.",
+      "parentUuid": "55b9ac18_cc061d9b",
+      "revId": "bd20f8328a0a846a0424666e65e13e39f887f17a",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
